@@ -1,3 +1,4 @@
 console.log('hello me')
 
-console.log(2+5)
+
+console.log(10)
