@@ -1,4 +1,8 @@
 console.log('hello me')
 
+var x=5
 
-console.log(22)
+var b=7
+
+console.log(x*b)
+
